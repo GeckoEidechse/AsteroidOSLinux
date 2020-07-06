@@ -5,11 +5,12 @@ AsteroidOS Linux control application
   - pydbus
   - mpd
   - pyowm
+  - colorama
 
 Get the necessary modules with:
 
 ```    
-pip3 install pydbus python-mpd2 pyowm
+pip3 install pydbus python-mpd2 pyowm colorama
 ```
 
 ## Setup
